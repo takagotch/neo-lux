@@ -121,7 +121,6 @@ var api = new RemoteRPCNode("http://neoscan.io", "http://seed6.ngd.network:10332
 
 ```sh
 Install-Package NeoLux
-
 ```
 
 ```
